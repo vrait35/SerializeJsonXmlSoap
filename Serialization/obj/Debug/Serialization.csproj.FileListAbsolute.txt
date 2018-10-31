@@ -1,0 +1,11 @@
+C:\Users\темирбулата\source\repos\Serialization\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\темирбулата\source\repos\Serialization\Serialization\bin\Debug\Serialization.exe
+C:\Users\темирбулата\source\repos\Serialization\Serialization\bin\Debug\Serialization.pdb
+C:\Users\темирбулата\source\repos\Serialization\Serialization\obj\Debug\Serialization.csprojAssemblyReference.cache
+C:\Users\темирбулата\source\repos\Serialization\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\темирбулата\source\repos\Serialization\Serialization\obj\Debug\Serialization.exe
+C:\Users\темирбулата\source\repos\Serialization\Serialization\obj\Debug\Serialization.pdb
+C:\Users\темирбулата\source\repos\Serialization\Serialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\темирбулата\source\repos\Serialization\Serialization\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\темирбулата\source\repos\Serialization\Serialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\темирбулата\source\repos\Serialization\Serialization\obj\Debug\Serialization.csproj.CopyComplete
